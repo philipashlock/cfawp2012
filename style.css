@@ -108,6 +108,7 @@
 	color: #999595;
 	font-size: 12px;
 	vertical-align: top;
+	display: flex;
 }
 .post-preview .filed ul{
 	float: none;
